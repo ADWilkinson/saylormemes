@@ -8,11 +8,11 @@ export const Footer: React.FC = () => {
           Curated by{' '}
           <a
             className="text-btc"
-            href="https://twitter.com/davyjones0x"
+            href="https://twitter.com/andrewwilkinson"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @davyjones0x
+            @andrewwilkinson
           </a>
         </p>
         <p className="text-footnote text-ink-lightest mt-1">
